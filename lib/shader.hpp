@@ -1,3 +1,18 @@
+/**
+ * @file      lib/shader.hpp
+ * @author    Joey de Vries (https://github.com/JoeyDeVries)
+ * @copyright CC BY-NC 4.0 (https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md)
+ * 
+ * @see       <a herf="https://learnopengl.com/Getting-started/Shaders">LearnOpenGL > Getting Start > Shaders</a>
+ * 
+ * Copyright Declaration
+ * All code samples, unless explicitly stated otherwise, are licensed under the terms of the CC BY-NC 4.0 license as published by Creative Commons, either version 4 of the License, or (at your option) any later version.
+ * See https://learnopengl.com/About for more information.
+ * 
+ * 
+ * Some code of this file is partly modified by Aries Cs (https://github.com/Aries0d0f)
+ */
+
 #ifndef SHADER_H
 #define SHADER_H
 
